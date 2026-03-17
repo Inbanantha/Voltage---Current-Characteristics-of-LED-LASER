@@ -43,7 +43,6 @@ Key points:
 
 ---
 
-## MODEL GRAPH
 ![alt text](image.png)
 
 ---
