@@ -44,10 +44,9 @@ Key points:
 ---
 
 ## MODEL GRAPH
-
+![alt text](image.png)
 
 ---
 
 ## RESULT
 - The IV characteristics of the fiber optic LED were studied.  
-
